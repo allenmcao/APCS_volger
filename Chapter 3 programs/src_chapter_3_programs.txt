@@ -1,0 +1,7 @@
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program2.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program3.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program4.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program5.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program6.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\program7.java"
+"\\\\Shark\\Brett\\Student_Files\\Class_of_14\\14_Cao_Allen\\JCreatorLE\\JCreator LE\\Chapter 3 programs\\PurseProgram.java"

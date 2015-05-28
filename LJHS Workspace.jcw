@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>LJHS Workspace</label>
+		<id>524</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>LJHS Workspace.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayListPrograms\ArrayListPrograms.jcp</path>
+		</project>
+		<project>
+			<path>ArrayPrg\ArrayPrg.jcp</path>
+		</project>
+		<project>
+			<path>Ch2Programs\Ch2Programs.jcp</path>
+		</project>
+		<project>
+			<path>Ch3AlternatePrg\Ch3AlternatePrg.jcp</path>
+		</project>
+		<project>
+			<path>Chapter 3 programs\Chapter 3 programs.jcp</path>
+		</project>
+		<project>
+			<path>Ch5AlternatePrgs\Ch5AlternatePrgs.jcp</path>
+		</project>
+		<project>
+			<path>Ch5Prgorams\Ch5Prgorams.jcp</path>
+		</project>
+		<project>
+			<path>Ch6Programs\Ch6Programs.jcp</path>
+		</project>
+		<project>
+			<path>ExceptionPrograms\ExceptionPrograms.jcp</path>
+		</project>
+		<project>
+			<path>Testrun12345\Testrun12345.jcp</path>
+		</project>
+		<project>
+			<path>GridWorldCode\GridWorld.jcp</path>
+		</project>
+		<project>
+			<path>Inheritance Programs\Inheritance Programs.jcp</path>
+		</project>
+		<project>
+			<path>Interface Prgs\Interface Prgs.jcp</path>
+		</project>
+		<project>
+			<path>NestedLoops\NestedLoops.jcp</path>
+		</project>
+		<project>
+			<path>Pong\Pong.jcp</path>
+		</project>
+		<project>
+			<path>RecursionPrograms\RecursionPrograms.jcp</path>
+		</project>
+		<project>
+			<path>SearchingPrograms\SearchingPrograms.jcp</path>
+		</project>
+		<project>
+			<path>SortingPrograms\SortingPrograms.jcp</path>
+		</project>
+		<project>
+			<path>String Programs\String Programs.jcp</path>
+		</project>
+		<project>
+			<path>TraversingStrings\TraversingStrings.jcp</path>
+		</project>
+	</projects>
+</workspace>
